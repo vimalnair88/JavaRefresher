@@ -18,6 +18,7 @@ public class TestArray {
 	for (int i=0; i<n; i++)
 	{
 	array[i]=reader.nextInt();
+	System.out.println(array[i]);
 	}
 	}
 	
